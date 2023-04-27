@@ -1,2 +1,3 @@
 # LifeHook
-Log your activities through a Discord Webhook!
+
+[LifeHook Discord](https://discord.gg/zTfSRGAmWP)
